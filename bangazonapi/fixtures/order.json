@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1234,
+    "user_id": 9876,
+    "customer_email": "Max.Rolfson@test.mock",
+    "customer_name": "Max",
+    "customer_phone": "202-555-0134",
+    "datetime_created": "2024-01-15T06:03:33.330037",
+    "datetime_deleted": null,
+    "datetime_updated": "2024-01-15T06:03:33.330037",
+    "order_subtotal": 6.66,
+    "status": "open"
+    
+  }
+]
